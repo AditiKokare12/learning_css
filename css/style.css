@@ -8,3 +8,62 @@ h3{
     background-color: pink;
     font-size: 50px;
 }
+h1{
+    color: rgba(128, 0, 128, 0.863);
+    /* background-color:rgba(0, 255, 255, 0.363); */
+    font-size: 50px;
+}
+.heading1{
+    color: aqua;
+    background-color: rgba(0, 255, 255, 0.13);
+    font-size: 50px;
+}
+.para1{
+    color: palevioletred;
+}
+#heading2{
+    color: palevioletred;
+    background-color: pink;
+}
+.bg_color{
+    background-color: rgba(137, 43, 226, 0.514);
+}
+.font_size{
+    font-size: 50px;
+}
+.color{
+    color: palevioletred;
+} 
+.t_transform_uppercase{
+    text-transform: lowercase;
+}
+.t_transform_lowercase{
+    text-transform: lowercase;
+}
+.t_transform_capitilize{
+    text-transform: capitalize;
+}
+.t_decor_underline{
+    text-decoration: underline;
+}
+.t_decor_overline{
+    text-decoration: overline;
+}
+.t_decor_line_throug{
+    text-decoration: line-through;
+}
+.t_decor_all {
+    text-decoration: overline underline line-through;
+}
+.t_align_r{
+    text-align:right;
+}
+.tt_align_t{
+    text-align:left ;
+}
+.t_align_c{
+    text-align:center;
+}
+.t_shadow{
+    text-shadow: 5px 7px 2px rgb(226, 72, 124);
+}
